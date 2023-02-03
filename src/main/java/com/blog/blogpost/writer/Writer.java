@@ -21,6 +21,10 @@ public class Writer {
     
     @Column
     private @NonNull String email;
+
+    public Writer(){
+        super();
+    }
     
     public Writer(int id, String name, String email){
         this.id = id;
