@@ -10,6 +10,9 @@ public class WriterController {
     @Autowired
     private WriterService writerService;
 
+    @Autowired
+    private DTOMappingService dtoMappingService;
+
     // Post
     @PostMapping(value="/blogger")
     public String postWriter(@RequestBody Writer writer) {
@@ -27,8 +30,13 @@ public class WriterController {
 
     // Get all
     @GetMapping(value="/blogger")
-    public List<Writer> getBloggers(@RequestBody Writer writer){
-        return writerService.getBloggers();
+    @ResponseBody
+    public List<WriterDTO> getAllBloggers(){
+        /* Call getAllBloggers from the DTOMappingService
+            then store the result in a list of WriterDTO             
+        */
+        
+        return dtoMappingService.getAllBloggers();
     }
 
     // Delete
