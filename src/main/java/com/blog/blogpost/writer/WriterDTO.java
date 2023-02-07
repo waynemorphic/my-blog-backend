@@ -6,6 +6,7 @@ import lombok.*;
 public class WriterDTO {
     private String name;
     private String email;
+    private String password;
 }
 
 /*
