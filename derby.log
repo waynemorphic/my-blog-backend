@@ -1,29 +1,2083 @@
 ----------------------------------------------------------------
-Tue Feb 07 13:09:59 EAT 2023:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-2b5a-8712-00000c250558 
-on database directory memory:/home/wayne/Documents/projects/blogpost/d127ebfe-5db4-46de-b386-e708b2f204b2 with class loader sun.misc.Launcher$AppClassLoader@7d4991ad 
+Fri Feb 10 12:19:47 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0a48999c-e2fb-4e34-96f0-0ba5dc94f341 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Private Build
 java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
 user.dir=/home/wayne/Documents/projects/blogpost
 os.name=Linux
 os.arch=amd64
-os.version=5.15.0-58-generic
+os.version=5.15.0-60-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Tue Feb 07 13:15:14 EAT 2023:
-Shutting down instance a816c00e-0186-2b5a-8712-00000c250558 on database directory memory:/home/wayne/Documents/projects/blogpost/d127ebfe-5db4-46de-b386-e708b2f204b2 with class loader sun.misc.Launcher$AppClassLoader@7d4991ad 
+Fri Feb 10 12:34:57 EAT 2023:
+Shutting down instance a816c00e-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0a48999c-e2fb-4e34-96f0-0ba5dc94f341 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 ----------------------------------------------------------------
-Tue Feb 07 13:15:17 EAT 2023:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7815c0b6-0186-2b5a-8712-00000c250558 
-on database directory memory:/home/wayne/Documents/projects/blogpost/176f998e-442b-46e5-9ea5-07746d93e6b5 with class loader sun.misc.Launcher$AppClassLoader@7d4991ad 
+Fri Feb 10 12:34:58 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1d6e40d2-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/5d749de7-f461-40bf-9b82-ee5be5806092 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Private Build
 java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
 user.dir=/home/wayne/Documents/projects/blogpost
 os.name=Linux
 os.arch=amd64
-os.version=5.15.0-58-generic
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:35:01 EAT 2023:
+Shutting down instance 1d6e40d2-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/5d749de7-f461-40bf-9b82-ee5be5806092 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:35:02 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 82d70188-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2d37567a-fa26-4e5c-a3af-5fa358bb8205 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:05 EAT 2023:
+Shutting down instance 82d70188-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/2d37567a-fa26-4e5c-a3af-5fa358bb8205 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:08 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b0130259-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/b8eebec7-de3b-4d65-9511-da8a8a149205 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:11 EAT 2023:
+Shutting down instance b0130259-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/b8eebec7-de3b-4d65-9511-da8a8a149205 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:16 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8afa430f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/70333386-8dff-4ea9-98b7-9717bacb58be with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:19 EAT 2023:
+Shutting down instance 8afa430f-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/70333386-8dff-4ea9-98b7-9717bacb58be with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:22 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 063a83c5-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0150d554-67d7-467c-a657-1f86417108b3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:23 EAT 2023:
+Shutting down instance 063a83c5-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0150d554-67d7-467c-a657-1f86417108b3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:26 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a1d3c47b-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/df083864-96af-48ad-80e6-f6a750a7a5f4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:27 EAT 2023:
+Shutting down instance a1d3c47b-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/df083864-96af-48ad-80e6-f6a750a7a5f4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:30 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ddc60531-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/edc9cf70-39ce-4cc4-868d-37d7dd98cf6d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:31 EAT 2023:
+Shutting down instance ddc60531-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/edc9cf70-39ce-4cc4-868d-37d7dd98cf6d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:41 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3a1145e7-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/b1b3170c-3246-42b8-a96a-b2173c90cb75 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:41 EAT 2023:
+Shutting down instance 3a1145e7-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/b1b3170c-3246-42b8-a96a-b2173c90cb75 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:47 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 36b5869d-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/fea1178f-2677-41fc-bf49-e0ec0cff77bb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:48 EAT 2023:
+Shutting down instance 36b5869d-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/fea1178f-2677-41fc-bf49-e0ec0cff77bb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:44:53 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 53b2c753-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3e919392-e171-49fb-932a-7df631e65d25 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:44:53 EAT 2023:
+Shutting down instance 53b2c753-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/3e919392-e171-49fb-932a-7df631e65d25 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:00 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 11090809-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/355a70e0-9b96-4054-9ec6-7b9f4e11ecd4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:02 EAT 2023:
+Shutting down instance 11090809-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/355a70e0-9b96-4054-9ec6-7b9f4e11ecd4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:17 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eeb848bf-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/1320fdb3-5011-4c59-bbe4-3eef9cebea5e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:18 EAT 2023:
+Shutting down instance eeb848bf-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/1320fdb3-5011-4c59-bbe4-3eef9cebea5e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:21 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6cc08975-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/02d57c38-7e88-4216-b20c-40c2d2f9fb1d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:21 EAT 2023:
+Shutting down instance 6cc08975-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/02d57c38-7e88-4216-b20c-40c2d2f9fb1d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:27 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0b21ca2b-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/93d6883e-251e-47a7-ab89-b437c0ebdd8b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:27 EAT 2023:
+Shutting down instance 0b21ca2b-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/93d6883e-251e-47a7-ab89-b437c0ebdd8b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:38 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 49dc0ae1-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/e6bc9350-78ac-407f-95f5-e642ffff3b06 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:42 EAT 2023:
+Shutting down instance 49dc0ae1-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/e6bc9350-78ac-407f-95f5-e642ffff3b06 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:45 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a8ef4b97-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2ff83743-9716-4b05-94e4-745edd5f0ca3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:51 EAT 2023:
+Shutting down instance a8ef4b97-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/2ff83743-9716-4b05-94e4-745edd5f0ca3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:54 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a85b8c4d-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/9713b164-f16f-442b-8c5d-a28023510726 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:45:56 EAT 2023:
+Shutting down instance a85b8c4d-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/9713b164-f16f-442b-8c5d-a28023510726 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:45:58 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c820cd03-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/d5053a9b-3867-4318-b477-bf6fe5118907 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:46:08 EAT 2023:
+Shutting down instance c820cd03-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/d5053a9b-3867-4318-b477-bf6fe5118907 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:46:11 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 883f0db9-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/4081d0ad-ed32-4343-9d0e-e8002f1a9f2d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:46:15 EAT 2023:
+Shutting down instance 883f0db9-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/4081d0ad-ed32-4343-9d0e-e8002f1a9f2d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:46:18 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 68b64e6f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/b4743a7f-9988-41e2-b2e0-2a7ebf769f52 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:46:32 EAT 2023:
+Shutting down instance 68b64e6f-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/b4743a7f-9988-41e2-b2e0-2a7ebf769f52 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:46:34 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e9868f25-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0fb7fc7f-cf9d-4511-8e13-bba2a7f237eb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:46:53 EAT 2023:
+Shutting down instance e9868f25-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0fb7fc7f-cf9d-4511-8e13-bba2a7f237eb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:46:54 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8aafcfdb-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/43d7d96a-c797-4bf4-9227-91526c3b4dd9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:47:01 EAT 2023:
+Shutting down instance 8aafcfdb-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/43d7d96a-c797-4bf4-9227-91526c3b4dd9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:47:02 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cc321091-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/f95a4ae1-0ed4-4017-8074-c348829524e0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:47:07 EAT 2023:
+Shutting down instance cc321091-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/f95a4ae1-0ed4-4017-8074-c348829524e0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:47:09 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2e0d5147-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/5a372031-1f5d-44af-a866-b2c50570f7dd with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:47:14 EAT 2023:
+Shutting down instance 2e0d5147-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/5a372031-1f5d-44af-a866-b2c50570f7dd with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:47:16 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 304191fd-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/56d60795-f43d-49c7-b796-6dfca001e5c0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:47:19 EAT 2023:
+Shutting down instance 304191fd-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/56d60795-f43d-49c7-b796-6dfca001e5c0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:47:21 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 52ced2b3-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3a60d1b6-2c5f-4c70-940a-0be141f63740 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:47:37 EAT 2023:
+Shutting down instance 52ced2b3-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/3a60d1b6-2c5f-4c70-940a-0be141f63740 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:47:38 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 15b51369-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/eceb1e1f-e09b-42b2-9327-07fc3dc0a9da with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:47:41 EAT 2023:
+Shutting down instance 15b51369-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/eceb1e1f-e09b-42b2-9327-07fc3dc0a9da with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:47:42 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f8f4541f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/f26544e1-3659-46dd-ab24-45cb619d805e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:50:12 EAT 2023:
+Shutting down instance f8f4541f-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/f26544e1-3659-46dd-ab24-45cb619d805e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:50:14 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 085454e2-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3cdb3169-1eda-4092-b340-17b172906a02 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:53:57 EAT 2023:
+Shutting down instance 085454e2-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/3cdb3169-1eda-4092-b340-17b172906a02 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:53:58 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a27d15a9-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/458f3982-1e20-4c43-9e31-e2ae7e2a8025 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:54:26 EAT 2023:
+Shutting down instance a27d15a9-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/458f3982-1e20-4c43-9e31-e2ae7e2a8025 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:54:28 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ec1c565f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/e8ef5c13-38f5-4e0c-9247-c50533d78f26 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:54:28 EAT 2023:
+Shutting down instance ec1c565f-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/e8ef5c13-38f5-4e0c-9247-c50533d78f26 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:54:28 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c2a556fa-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/e8ef5c13-38f5-4e0c-9247-c50533d78f26 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:54:42 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2063d6fb-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/6a4b386e-86d6-49b2-9e09-745862153692 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:54:42 EAT 2023:
+Shutting down instance 2063d6fb-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/6a4b386e-86d6-49b2-9e09-745862153692 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:54:42 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ee89d796-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/6a4b386e-86d6-49b2-9e09-745862153692 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:55:25 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6c6f5797-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/9e0aee60-7af9-4ce8-ba99-213084a9a704 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:55:25 EAT 2023:
+Shutting down instance 6c6f5797-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/9e0aee60-7af9-4ce8-ba99-213084a9a704 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:55:25 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 32325832-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/9e0aee60-7af9-4ce8-ba99-213084a9a704 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:56:52 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d03ed833-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/39fe4ee8-89a7-4245-b62f-eb88f3f404a8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:56:52 EAT 2023:
+Shutting down instance d03ed833-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/39fe4ee8-89a7-4245-b62f-eb88f3f404a8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:56:52 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8d9ed8ce-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/39fe4ee8-89a7-4245-b62f-eb88f3f404a8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:56:58 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4bd258cf-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3df4b384-747b-4488-993f-b436c7a8cad4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:56:58 EAT 2023:
+Shutting down instance 4bd258cf-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/3df4b384-747b-4488-993f-b436c7a8cad4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:56:58 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 00cf596a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3df4b384-747b-4488-993f-b436c7a8cad4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:57:03 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance df29d96b-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3c34db8e-4b8f-4858-9269-7df1cb1c548e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:59:15 EAT 2023:
+Shutting down instance df29d96b-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/3c34db8e-4b8f-4858-9269-7df1cb1c548e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:59:17 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 78285a3f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/088e21ef-0a43-48a7-87cb-3f74d5a5a66b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:59:17 EAT 2023:
+Shutting down instance 78285a3f-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/088e21ef-0a43-48a7-87cb-3f74d5a5a66b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:59:17 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e4d95ada-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/088e21ef-0a43-48a7-87cb-3f74d5a5a66b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:59:21 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 438fdadb-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/1e8f8321-fc3f-4242-a7e4-dec022f860d2 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 12:59:21 EAT 2023:
+Shutting down instance 438fdadb-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/1e8f8321-fc3f-4242-a7e4-dec022f860d2 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 12:59:21 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a7dddb76-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/1e8f8321-fc3f-4242-a7e4-dec022f860d2 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:00:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 26bb5b77-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/4f9b4aa8-d4df-4a63-89d6-c4ef6d9c9df6 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:00:54 EAT 2023:
+Shutting down instance 26bb5b77-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/4f9b4aa8-d4df-4a63-89d6-c4ef6d9c9df6 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:00:57 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5c1d5c3a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0dbef2da-5b6a-4c75-b5d5-7be7ac2f29e5 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:00:57 EAT 2023:
+Shutting down instance 5c1d5c3a-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0dbef2da-5b6a-4c75-b5d5-7be7ac2f29e5 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:00:57 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 258c9cd5-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0dbef2da-5b6a-4c75-b5d5-7be7ac2f29e5 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:02:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 54c1dcd6-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/fca7f6a9-84bb-4ec8-a25f-ad0f263c1104 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:03:00 EAT 2023:
+Shutting down instance 54c1dcd6-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/fca7f6a9-84bb-4ec8-a25f-ad0f263c1104 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:03:02 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 38341da1-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2369dbf0-5b30-4d16-b23b-0c0b06d2c436 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:04:00 EAT 2023:
+Shutting down instance 38341da1-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/2369dbf0-5b30-4d16-b23b-0c0b06d2c436 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:04:01 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 43e49e6c-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2f165713-62dc-4fb2-ad62-aa45738a7e40 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:03 EAT 2023:
+Shutting down instance 43e49e6c-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/2f165713-62dc-4fb2-ad62-aa45738a7e40 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5aad1f29-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/c369e1f4-712a-4429-8ecc-d1138a84bef8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:07 EAT 2023:
+Shutting down instance 5aad1f29-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/c369e1f4-712a-4429-8ecc-d1138a84bef8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:09 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1457dfe6-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/598ecb44-e369-4c1e-b2ce-d22d96d5b835 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:11 EAT 2023:
+Shutting down instance 1457dfe6-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/598ecb44-e369-4c1e-b2ce-d22d96d5b835 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:13 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c0e4e0a3-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/176ca4ff-62b8-4adb-b9f8-673896edcd59 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:16 EAT 2023:
+Shutting down instance c0e4e0a3-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/176ca4ff-62b8-4adb-b9f8-673896edcd59 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:18 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b0542160-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/63eb20c8-aece-48af-9a99-423e9c076f17 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:20 EAT 2023:
+Shutting down instance b0542160-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/63eb20c8-aece-48af-9a99-423e9c076f17 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:21 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 32a5a21d-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/cbe944e0-9fe6-4e72-b6f5-432331f27b7f with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:24 EAT 2023:
+Shutting down instance 32a5a21d-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/cbe944e0-9fe6-4e72-b6f5-432331f27b7f with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:25 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 97d962da-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2596f3c9-8a1b-4c99-abf0-c5b723377236 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:25 EAT 2023:
+Shutting down instance 97d962da-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/2596f3c9-8a1b-4c99-abf0-c5b723377236 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:26 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6200a375-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2596f3c9-8a1b-4c99-abf0-c5b723377236 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:30 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 92dde376-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/00a7fb00-4450-4f53-a1cd-7866fe0a1ac9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:30 EAT 2023:
+Shutting down instance 92dde376-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/00a7fb00-4450-4f53-a1cd-7866fe0a1ac9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:30 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 14a22411-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/00a7fb00-4450-4f53-a1cd-7866fe0a1ac9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:36 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a5a66412-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/b8f0950f-0420-4f08-8e39-cf8ff215e894 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:52 EAT 2023:
+Shutting down instance a5a66412-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/b8f0950f-0420-4f08-8e39-cf8ff215e894 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:54 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4eef24c8-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/f7b9195a-678a-4c5b-96f4-8814edf5e4e0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:54 EAT 2023:
+Shutting down instance 4eef24c8-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/f7b9195a-678a-4c5b-96f4-8814edf5e4e0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:09:54 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 53dce563-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/f7b9195a-678a-4c5b-96f4-8814edf5e4e0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:09:57 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9535a564-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/5f66e690-d503-4e34-888d-ad995b47e32c with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:10:00 EAT 2023:
+Shutting down instance 9535a564-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/5f66e690-d503-4e34-888d-ad995b47e32c with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:10:01 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3a91661a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/af93b222-10ef-4e47-8375-2e9a19efe274 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:10:03 EAT 2023:
+Shutting down instance 3a91661a-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/af93b222-10ef-4e47-8375-2e9a19efe274 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:10:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 404626d0-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/be76c420-6534-4682-9ea8-e7654bfd4eab with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:10:10 EAT 2023:
+Shutting down instance 404626d0-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/be76c420-6534-4682-9ea8-e7654bfd4eab with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:10:11 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2653e786-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/56fae8b9-daff-495a-8ec6-36b827122868 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:10:50 EAT 2023:
+Shutting down instance 2653e786-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/56fae8b9-daff-495a-8ec6-36b827122868 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:10:53 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6cbaa83c-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/02f8bb57-bb6f-4a16-94dd-a62014d0bbca with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:10:55 EAT 2023:
+Shutting down instance 6cbaa83c-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/02f8bb57-bb6f-4a16-94dd-a62014d0bbca with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:10:57 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 937a68f2-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/60e96a1d-b268-4534-b27b-27a0552e285c with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:20:24 EAT 2023:
+Shutting down instance 937a68f2-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/60e96a1d-b268-4534-b27b-27a0552e285c with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:20:26 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7d79a9bd-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/834e22b7-8559-4153-aeed-cc3120be3b93 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:21:20 EAT 2023:
+Shutting down instance 7d79a9bd-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/834e22b7-8559-4153-aeed-cc3120be3b93 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:21:22 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 62d1aa7d-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/d1daf2b7-92c0-4253-87a2-50fcda843058 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:21:29 EAT 2023:
+Shutting down instance 62d1aa7d-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/d1daf2b7-92c0-4253-87a2-50fcda843058 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:21:30 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 53bd6b3a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0a648d9b-1e14-45e2-a2d3-b50786238548 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:21:33 EAT 2023:
+Shutting down instance 53bd6b3a-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0a648d9b-1e14-45e2-a2d3-b50786238548 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:21:34 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 778b6bf7-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/6e378a41-d553-4be4-8182-6380410d85c5 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:21:37 EAT 2023:
+Shutting down instance 778b6bf7-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/6e378a41-d553-4be4-8182-6380410d85c5 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:21:39 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1e3bacb4-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/ffa7a2b3-84ee-48db-a800-c0a44e0cb4fe with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:31:13 EAT 2023:
+Shutting down instance 1e3bacb4-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/ffa7a2b3-84ee-48db-a800-c0a44e0cb4fe with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:31:15 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7c1b6d8a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/aed6a0c0-95e1-4944-9b37-62e45de8bdac with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:46:28 EAT 2023:
+Shutting down instance 7c1b6d8a-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/aed6a0c0-95e1-4944-9b37-62e45de8bdac with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:46:30 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8d2d6e47-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/c5e27e07-474e-4984-8089-428db8fbc997 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:46:40 EAT 2023:
+Shutting down instance 8d2d6e47-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/c5e27e07-474e-4984-8089-428db8fbc997 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:46:42 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2121af04-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/70b96c45-121b-4b97-aa08-8ff834bf37c6 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:46:42 EAT 2023:
+Shutting down instance 2121af04-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/70b96c45-121b-4b97-aa08-8ff834bf37c6 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:46:42 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d2a46f9f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/70b96c45-121b-4b97-aa08-8ff834bf37c6 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:46:44 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f68c2fa0-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/97756eab-5945-4da5-b49d-8fc964696629 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:46:44 EAT 2023:
+Shutting down instance f68c2fa0-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/97756eab-5945-4da5-b49d-8fc964696629 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:46:44 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance dfabf03b-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/97756eab-5945-4da5-b49d-8fc964696629 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:46:53 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e3bab03c-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/8a711226-fecb-418f-84bd-88beeb54b362 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:07 EAT 2023:
+Shutting down instance e3bab03c-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/8a711226-fecb-418f-84bd-88beeb54b362 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:09 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 767a70f2-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/371132d5-5733-4d67-8e00-5d570df78392 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:13 EAT 2023:
+Shutting down instance 767a70f2-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/371132d5-5733-4d67-8e00-5d570df78392 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:14 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 699331a8-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/43955066-977b-4321-976e-0116610e1c13 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:16 EAT 2023:
+Shutting down instance 699331a8-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/43955066-977b-4321-976e-0116610e1c13 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:18 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3d04f25e-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/9826295d-f221-45c1-bc5d-bd0b58bc4452 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:23 EAT 2023:
+Shutting down instance 3d04f25e-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/9826295d-f221-45c1-bc5d-bd0b58bc4452 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:24 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 70cfb314-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/78af5c9f-779e-43d0-8c1c-783a464a5d7b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:27 EAT 2023:
+Shutting down instance 70cfb314-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/78af5c9f-779e-43d0-8c1c-783a464a5d7b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:28 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 84f373ca-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/b2de2236-c8cc-43f1-8fc3-78d86d745f13 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:39 EAT 2023:
+Shutting down instance 84f373ca-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/b2de2236-c8cc-43f1-8fc3-78d86d745f13 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:41 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f9703480-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/271fbe6e-0094-45c7-8c68-0bdadc87808f with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:47:43 EAT 2023:
+Shutting down instance f9703480-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/271fbe6e-0094-45c7-8c68-0bdadc87808f with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:47:44 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4e45f536-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/7de16dcf-9f1b-4070-929b-63b4b56d9225 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:49:31 EAT 2023:
+Shutting down instance 4e45f536-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/7de16dcf-9f1b-4070-929b-63b4b56d9225 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:49:32 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0374b5ec-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/d8f2893c-5280-4a87-8b57-2e6c60ae0c61 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:57:47 EAT 2023:
+Shutting down instance 0374b5ec-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/d8f2893c-5280-4a87-8b57-2e6c60ae0c61 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:57:49 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2f9ff6a6-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/a4b6d481-84ed-408c-b99a-f3ced9f1bab0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:57:51 EAT 2023:
+Shutting down instance 2f9ff6a6-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/a4b6d481-84ed-408c-b99a-f3ced9f1bab0 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:57:52 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2636b75c-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0789862e-7be1-4cb6-8d5d-c2b9523149c3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:57:55 EAT 2023:
+Shutting down instance 2636b75c-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0789862e-7be1-4cb6-8d5d-c2b9523149c3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:57:57 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fd267812-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/1f31651d-30bf-43f8-b7ee-ac1227ad2f1b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:58:00 EAT 2023:
+Shutting down instance fd267812-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/1f31651d-30bf-43f8-b7ee-ac1227ad2f1b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:58:01 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 346f38c8-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/49efb648-59e2-4a12-9f54-352ba904ae63 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:58:04 EAT 2023:
+Shutting down instance 346f38c8-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/49efb648-59e2-4a12-9f54-352ba904ae63 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:58:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4c10f97e-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/d97ac924-516e-48e4-8e6c-d01ec858d7a9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:58:09 EAT 2023:
+Shutting down instance 4c10f97e-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/d97ac924-516e-48e4-8e6c-d01ec858d7a9 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:58:10 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c40bba34-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/d8717c0d-c264-4ec6-870a-50f346147ad3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:10 EAT 2023:
+Shutting down instance c40bba34-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/d8717c0d-c264-4ec6-870a-50f346147ad3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:12 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1c5f7aea-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/ad52bdd9-3ad6-4c04-9c02-f64d223bfa50 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:14 EAT 2023:
+Shutting down instance 1c5f7aea-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/ad52bdd9-3ad6-4c04-9c02-f64d223bfa50 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:15 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d50c3ba0-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/c8d8a6fa-faa6-4dd6-a868-72ec6513a154 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:25 EAT 2023:
+Shutting down instance d50c3ba0-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/c8d8a6fa-faa6-4dd6-a868-72ec6513a154 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:27 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6e11fc56-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/7800ebc8-6f2e-4784-aba6-432b27b0ff32 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:30 EAT 2023:
+Shutting down instance 6e11fc56-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/7800ebc8-6f2e-4784-aba6-432b27b0ff32 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:32 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6770bd0c-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/3e8796f8-cd73-43f4-b663-bfb6518ece28 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:35 EAT 2023:
+Shutting down instance 6770bd0c-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/3e8796f8-cd73-43f4-b663-bfb6518ece28 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:36 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 41287dc2-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/9dc79f50-ac48-4ea9-b376-42f9400a2d16 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:38 EAT 2023:
+Shutting down instance 41287dc2-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/9dc79f50-ac48-4ea9-b376-42f9400a2d16 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:39 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7b393e78-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/4ee4c042-6cf7-4a31-a2f5-33217dba602e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:41 EAT 2023:
+Shutting down instance 7b393e78-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/4ee4c042-6cf7-4a31-a2f5-33217dba602e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:43 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 95a2ff2e-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/4062b070-54a8-41fb-8abc-69ebf27c7ae8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:46 EAT 2023:
+Shutting down instance 95a2ff2e-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/4062b070-54a8-41fb-8abc-69ebf27c7ae8 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:48 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1065bfe4-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0688544e-b2a4-4bda-9217-86c24be8c41e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 13:59:51 EAT 2023:
+Shutting down instance 1065bfe4-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0688544e-b2a4-4bda-9217-86c24be8c41e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 13:59:52 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6b81809a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/605f5543-53b1-4bcf-aeaf-5b5676bedbe3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:02:38 EAT 2023:
+Shutting down instance 6b81809a-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/605f5543-53b1-4bcf-aeaf-5b5676bedbe3 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:02:39 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c34dc15d-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/328784fa-7b58-48c2-954e-6bcb2c238b8e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:02:41 EAT 2023:
+Shutting down instance c34dc15d-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/328784fa-7b58-48c2-954e-6bcb2c238b8e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:02:43 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 516b0213-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/ef5249d9-f74f-4799-9fcb-a5670da10d65 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:02:51 EAT 2023:
+Shutting down instance 516b0213-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/ef5249d9-f74f-4799-9fcb-a5670da10d65 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:02:52 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7fe142c9-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/6690b4ee-ec32-4897-bd40-0e5789ad8e70 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:07:56 EAT 2023:
+Shutting down instance 7fe142c9-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/6690b4ee-ec32-4897-bd40-0e5789ad8e70 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:07:58 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 17794389-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/48949db6-da10-4bca-bb0d-9ca682f26902 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:10:00 EAT 2023:
+Shutting down instance 17794389-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/48949db6-da10-4bca-bb0d-9ca682f26902 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:10:01 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d75bc44d-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/815999c9-16d9-41a0-927e-616e667d2597 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:10:06 EAT 2023:
+Shutting down instance d75bc44d-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/815999c9-16d9-41a0-927e-616e667d2597 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:10:07 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eb210503-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/8c13a4d2-6efc-4a14-b8e3-faa6d10798d7 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:10:18 EAT 2023:
+Shutting down instance eb210503-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/8c13a4d2-6efc-4a14-b8e3-faa6d10798d7 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:10:19 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9f3f45b9-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/e61dcdac-0472-47e8-b5f5-500d25289a9e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:11:12 EAT 2023:
+Shutting down instance 9f3f45b9-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/e61dcdac-0472-47e8-b5f5-500d25289a9e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:11:13 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 73b6866f-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0b3f675b-e3b4-4684-9e42-5431a2b60ead with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:12:03 EAT 2023:
+Shutting down instance 73b6866f-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0b3f675b-e3b4-4684-9e42-5431a2b60ead with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:12:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fe064731-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/932cb47e-2a53-4a7d-9465-95cb96270784 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:14:11 EAT 2023:
+Shutting down instance fe064731-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/932cb47e-2a53-4a7d-9465-95cb96270784 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:14:12 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ab0e07f6-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/a35cb6e2-7391-4e38-b214-cf7cf21ffe53 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:14:17 EAT 2023:
+Shutting down instance ab0e07f6-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/a35cb6e2-7391-4e38-b214-cf7cf21ffe53 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:14:19 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b55cc8ac-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/db34aff2-4655-4ab5-b553-7894efd10011 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:14:19 EAT 2023:
+Shutting down instance b55cc8ac-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/db34aff2-4655-4ab5-b553-7894efd10011 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:14:19 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 090d8947-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/db34aff2-4655-4ab5-b553-7894efd10011 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:14:22 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 735f4948-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/c1593f42-daf4-4199-9624-e7e0182f7b27 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:14:24 EAT 2023:
+Shutting down instance 735f4948-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/c1593f42-daf4-4199-9624-e7e0182f7b27 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:14:25 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 79c109fe-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/fccb192f-ddb2-4f1e-869b-dd1df317140e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:18:51 EAT 2023:
+Shutting down instance 79c109fe-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/fccb192f-ddb2-4f1e-869b-dd1df317140e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:18:52 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6b490abe-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/6e1e825c-3235-4648-b141-d3e66933e608 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:19:06 EAT 2023:
+Shutting down instance 6b490abe-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/6e1e825c-3235-4648-b141-d3e66933e608 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:19:08 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f423cb74-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/42803b50-1da5-48c2-aae4-5750cfbc35da with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:19:11 EAT 2023:
+Shutting down instance f423cb74-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/42803b50-1da5-48c2-aae4-5750cfbc35da with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:19:12 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5d578c2a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/818dd3c1-ce89-4a72-ad84-cbff5f447a6e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:19:15 EAT 2023:
+Shutting down instance 5d578c2a-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/818dd3c1-ce89-4a72-ad84-cbff5f447a6e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:19:17 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 26e44ce0-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/6c8cc0a8-8ea7-43cb-b9ff-1924ef83121d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:21:03 EAT 2023:
+Shutting down instance 26e44ce0-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/6c8cc0a8-8ea7-43cb-b9ff-1924ef83121d with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:21:05 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cbd6cda5-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/29d65035-9d06-4c84-80c8-709652c18c91 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:21:07 EAT 2023:
+Shutting down instance cbd6cda5-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/29d65035-9d06-4c84-80c8-709652c18c91 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:21:08 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 88c00e5b-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/d064751e-5b80-4186-a244-6daeb99c146b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:21:16 EAT 2023:
+Shutting down instance 88c00e5b-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/d064751e-5b80-4186-a244-6daeb99c146b with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:21:17 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e6024f11-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/9221ebdc-950c-4332-9c23-b3bf080b2b44 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:25 EAT 2023:
+Shutting down instance e6024f11-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/9221ebdc-950c-4332-9c23-b3bf080b2b44 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:27 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 16e20fd6-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/f8c82da5-3fd2-4d49-997c-2068662dbb7f with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:30 EAT 2023:
+Shutting down instance 16e20fd6-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/f8c82da5-3fd2-4d49-997c-2068662dbb7f with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:32 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8780d08c-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/2b8327eb-fb76-4081-aa7e-f09dcb402d48 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:36 EAT 2023:
+Shutting down instance 8780d08c-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/2b8327eb-fb76-4081-aa7e-f09dcb402d48 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:38 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d8789142-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/fa55364a-164e-4558-8f51-94f74aab5892 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:42 EAT 2023:
+Shutting down instance d8789142-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/fa55364a-164e-4558-8f51-94f74aab5892 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:43 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 89c951f8-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/0cc80681-62b6-4a59-8f79-ebba941d3efa with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:45 EAT 2023:
+Shutting down instance 89c951f8-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/0cc80681-62b6-4a59-8f79-ebba941d3efa with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:47 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1b7312ae-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/ffb5abf3-501c-4d01-a40e-64a702fd7223 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:50 EAT 2023:
+Shutting down instance 1b7312ae-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/ffb5abf3-501c-4d01-a40e-64a702fd7223 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:51 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0d75d364-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/5a1b26a7-8e37-429e-9236-4a8bf04f4ab7 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 10 14:22:55 EAT 2023:
+Shutting down instance 0d75d364-0186-3a9f-a5aa-0000037676e8 on database directory memory:/home/wayne/Documents/projects/blogpost/5a1b26a7-8e37-429e-9236-4a8bf04f4ab7 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Fri Feb 10 14:22:57 EAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance dfd1941a-0186-3a9f-a5aa-0000037676e8 
+on database directory memory:/home/wayne/Documents/projects/blogpost/5c5ebf9f-b4ea-45a5-b36e-8519eb3b650e with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/wayne/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~22.04-b08
+user.dir=/home/wayne/Documents/projects/blogpost
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''

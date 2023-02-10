@@ -4,6 +4,7 @@ import lombok.*;
 
 @Getter @Setter
 public class WriterDTO {
+    private int id;
     private String name;
     private String email;
     private String password;

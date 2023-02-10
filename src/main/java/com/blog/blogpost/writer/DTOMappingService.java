@@ -27,6 +27,7 @@ public class DTOMappingService {
         WriterDTO writerDTO = new WriterDTO();
 
         // set name and email in DTO from the writer instance
+        writerDTO.setId(writer.getId());
         writerDTO.setName(writer.getName());
         writerDTO.setEmail(writer.getEmail());
 

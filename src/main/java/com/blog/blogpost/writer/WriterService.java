@@ -34,8 +34,7 @@ public class WriterService {
     }
 
     // Put implementation
-    public String putBlogger(int id, Writer writer){
+    public void putBlogger(int id, Writer writer){
         writerRepository.save(writer);
-        return "";
     }
 }
